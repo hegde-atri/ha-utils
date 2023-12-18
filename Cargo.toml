@@ -3,6 +3,16 @@ name = "hegdeatri-util"
 version = "0.1.0"
 edition = "2021"
 
+authors = ["Atri Hegde <iamatrihegde@outlook.com>"]
+licence = "AGPL-3.0"
+readme = "README.md"
+description = "My utility crate"
+homepage = "https://github.com/hegde-atri/ha-utils"
+repository = "https://github.com/hegde-atri/ha-utils"
+keywords = ["utility"]
+categories = ["Rust patterns"]
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+which = "4.4.0"
