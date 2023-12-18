@@ -1,6 +1,6 @@
 [package]
-name = "hegdeatri-util"
-version = "0.1.0"
+name = "ha-utils"
+version = "0.0.1"
 edition = "2021"
 authors = ["Atri Hegde <iamatrihegde@outlook.com>"]
 license = "AGPL-3.0"
